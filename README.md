@@ -9,6 +9,9 @@ Proyecto de análisis de datos desarrollado en Excel para visualizar y automatiz
 - Automatización con macros VBA
 - Indicadores clave (KPI)
 
+  ## 📸 Vista previa
+![Dashboard](dashboard_ventas.png)
+
 ## 🛠️ Herramientas utilizadas
 - Excel avanzado
 - Tablas dinámicas
